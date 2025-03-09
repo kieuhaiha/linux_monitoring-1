@@ -1,5 +1,7 @@
 # Linux Monitoring v1.0
 
+> Project work report is available in the file [report.md](./src/report.md)
+
 Linux basic bash scripting and system research.
 
 The russian version of the task can be found in the repository.
